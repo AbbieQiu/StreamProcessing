@@ -1,0 +1,5 @@
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Models\bin\Debug\StreamProcessing.Models.dll
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Models\bin\Debug\StreamProcessing.Models.pdb
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Models\obj\Debug\StreamProcessing.Models.csproj.CoreCompileInputs.cache
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Models\obj\Debug\StreamProcessing.Models.dll
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Models\obj\Debug\StreamProcessing.Models.pdb

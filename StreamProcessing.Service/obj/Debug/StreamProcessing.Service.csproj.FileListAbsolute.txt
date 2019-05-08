@@ -1,0 +1,9 @@
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\bin\Debug\StreamProcessing.Service.dll
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\bin\Debug\StreamProcessing.Service.pdb
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\bin\Debug\StreamProcessing.Models.dll
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\bin\Debug\StreamProcessing.Models.pdb
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\obj\Debug\StreamProcessing.Service.csprojAssemblyReference.cache
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\obj\Debug\StreamProcessing.Service.csproj.CoreCompileInputs.cache
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\obj\Debug\StreamProcessing.Service.csproj.CopyComplete
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\obj\Debug\StreamProcessing.Service.dll
+C:\Users\qiu96\Desktop\StreamProcessing\StreamProcessing.Service\obj\Debug\StreamProcessing.Service.pdb
